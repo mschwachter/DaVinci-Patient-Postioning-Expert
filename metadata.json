@@ -1,0 +1,7 @@
+{
+  "name": "SurgiPlan Pro",
+  "description": "Advanced surgical positioning architect using AI vision to analyze complex patient deformities for robotic procedures.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
